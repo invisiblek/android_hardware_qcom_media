@@ -66,6 +66,8 @@ enum {
     kKeySmoothStreaming      = 'ESmS',  //bool (int32_t)
     kKeyHFR                  = 'hfr ',  // int32_t
     kKeyHSR                  = 'hsr ',  // int32_t
+
+    kKeyPcmFormat            = 'pfmt', // int32_t (pcm format)
 };
 
 #if 0
